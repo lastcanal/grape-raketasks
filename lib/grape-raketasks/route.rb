@@ -1,4 +1,4 @@
-require 'active_support/core_ext/class'
+require 'active_support/core_ext/class/subclasses'
 
 # enable adding the API name to a route's options
 module Grape
